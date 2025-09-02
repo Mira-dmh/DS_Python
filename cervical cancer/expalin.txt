@@ -1,0 +1,44 @@
+1-yes/positive 0-No/negative
+### General Health & Lifestyle Variables:
+1.Smokes， Hormonal Contraceptives
+**'Age'**: The age of the individual (usually in years).
+2. **'Number of sexual partners'**: The total number of sexual partners the individual has had.
+3. **'First sexual intercourse'**: The age at which the individual first had sexual intercourse.
+4. **'Num of pregnancies'**: The total number of pregnancies the individual has experienced.
+5. **'Smokes'**: Whether or not the individual smokes (typically a binary variable: Yes = 1, No = 0).
+6. **'Smokes (years)'**: The number of years the individual has been smoking.
+7. **'Smokes (packs/year)'**: The total number of cigarette packs the individual smokes per year.
+8. **'Hormonal Contraceptives'**: Whether or not the individual has used hormonal contraceptives (usually a binary variable: Yes = 1, No = 0).
+9. **'Hormonal Contraceptives (years)'**: The number of years the individual has used hormonal contraceptives.
+10. **'IUD'**: Whether or not the individual has used an intrauterine device (IUD) for contraception (binary: Yes = 1, No = 0).
+11. **'IUD (years)'**: The number of years the individual has used an intrauterine device (IUD).
+   
+### Sexually Transmitted Diseases (STDs) & Medical History:
+12. **'STDs'**: Whether the individual has ever been diagnosed with any sexually transmitted disease (binary: Yes = 1, No = 0).
+13. **'STDs (number)'**: The total number of sexually transmitted diseases the individual has been diagnosed with.
+14. **'STDs:condylomatosis'**: Whether the individual has been diagnosed with condylomatosis (a type of genital wart caused by HPV).
+15. **'STDs:cervical condylomatosis'**: Whether the individual has been diagnosed with cervical condylomatosis (a form of genital wart specifically affecting the cervix).
+16. **'STDs:vaginal condylomatosis'**: Whether the individual has been diagnosed with vaginal condylomatosis (a type of genital wart found in the vaginal area).
+17. **'STDs:vulvo-perineal condylomatosis'**: Whether the individual has been diagnosed with vulvo-perineal condylomatosis (genital warts affecting the vulva and perineal area).
+18. **'STDs:syphilis'**: Whether the individual has been diagnosed with syphilis (a bacterial infection).
+19. **'STDs:pelvic inflammatory disease'**: Whether the individual has been diagnosed with pelvic inflammatory disease (PID), an infection of the reproductive organs, often caused by untreated STDs.
+20. **'STDs:genital herpes'**: Whether the individual has been diagnosed with genital herpes (a viral infection caused by HSV).
+21. **'STDs:molluscum contagiosum'**: Whether the individual has been diagnosed with molluscum contagiosum (a viral skin infection).
+22. **'STDs:AIDS'**: Whether the individual has been diagnosed with AIDS (Acquired Immunodeficiency Syndrome, the final stage of HIV infection).
+23. **'STDs:HIV'**: Whether the individual has been diagnosed with HIV (Human Immunodeficiency Virus).
+24. **'STDs:Hepatitis B'**: Whether the individual has been diagnosed with Hepatitis B (a viral infection that affects the liver).
+25. **'STDs:HPV'**: Whether the individual has been diagnosed with Human Papillomavirus (HPV), a group of viruses that can cause genital warts and are associated with cancer.
+26. **'STDs: Number of diagnosis'**: The total number of STD diagnoses the individual has received.
+
+### Medical Diagnosis History:
+27. **'STDs: Time since first diagnosis'**: The number of years since the individual was first diagnosed with an STD.
+28. **'STDs: Time since last diagnosis'**: The number of years since the individual was last diagnosed with an STD.
+29. **'Dx:Cancer'**: Whether the individual has been diagnosed with cancer (binary: Yes = 1, No = 0).
+30. **'Dx:CIN'**: Whether the individual has been diagnosed with cervical intraepithelial neoplasia (CIN), which is a precancerous condition of the cervix.
+31. **'Dx:HPV'**: Whether the individual has been diagnosed with Human Papillomavirus (HPV), a virus that can cause genital warts and certain cancers.
+32. **'Dx'**: This field is possibly a general diagnosis field indicating a broader range of diagnoses, but the exact meaning needs clarification based on the dataset context.
+33. **'Hinselmann'**: Whether the individual has undergone a Henselmann test, a procedure used to screen for cervical abnormalities.
+34. **'Schiller'**: Whether the individual has undergone a Schiller test, another test used to screen for cervical abnormalities, usually by applying an iodine solution to the cervix.
+35. **'Citology'**: This refers to cytology, a test used to examine cells (e.g., Pap smear test to screen for cervical cancer).
+36. **'Biopsy'**: Whether the individual has undergone a biopsy, a medical procedure in which tissue is removed from the body for examination (often used to test for cancer or abnormal tissue growth).
+
